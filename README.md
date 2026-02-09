@@ -1,4 +1,4 @@
-# Salut ! Moi c'est Antonine Pelicier 
+# Antonine Pelicier 
 
 ###  Infirmière |  Ingénieure en Informatique |  Data Scientist & IA
 
